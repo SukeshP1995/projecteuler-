@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def grg(q, m, k, j):
     a = 13*(m+1)//5
     b = k//4+j//4
@@ -49,7 +49,7 @@ for _ in range(t):
         if i > m2 and p >= y2:
             break
 
-=======
+
 def grg(q, m, k, j):
     a = 13*(m+1)//5
     b = k//4+j//4
@@ -100,5 +100,4 @@ for _ in range(t):
         if i > m2 and p >= y2:
             break
 
->>>>>>> origin/master
     print(s)
